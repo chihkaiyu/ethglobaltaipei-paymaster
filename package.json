@@ -1,0 +1,16 @@
+{
+  "name": "paymaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "permissionless": "^0.2.39",
+    "viem": "^2.25.0"
+  }
+}
